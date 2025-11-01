@@ -1,0 +1,37 @@
+user@comp-307-010 MINGW64 ~
+$ git clone https://github.com/netidej5-sketch/gittest2.git zadacha
+Cloning into 'zadacha'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+user@comp-307-010 MINGW64 ~
+$ cd za
+zadacha/       zahar.mdf      zahar_log.ldf  zaza.mdf       zaza_log.ldf
+
+user@comp-307-010 MINGW64 ~
+$ cd za
+zadacha/       zahar.mdf      zahar_log.ldf  zaza.mdf       zaza_log.ldf
+
+user@comp-307-010 MINGW64 ~
+$ cd za
+zadacha/       zahar.mdf      zahar_log.ldf  zaza.mdf       zaza_log.ldf
+
+user@comp-307-010 MINGW64 ~
+$ cd za
+zadacha/       zahar.mdf      zahar_log.ldf  zaza.mdf       zaza_log.ldf
+
+user@comp-307-010 MINGW64 ~
+$ cd za
+zadacha/       zahar.mdf      zahar_log.ldf  zaza.mdf       zaza_log.ldf
+
+user@comp-307-010 MINGW64 ~
+$ cd zadacha/
+
+user@comp-307-010 MINGW64 ~/zadacha (main)
+$ touch zadacha.txt
+
+user@comp-307-010 MINGW64 ~/zadacha (main)
+$ nano zadacha.txt
+
